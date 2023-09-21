@@ -1,0 +1,253 @@
+{
+  'id': '3551849',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'FinSTC Software LLC',
+  'type': 'company',
+  'description': '<p>Команда разработчиков «FinSTC»\xa0вышла на рынок разработки, внедрения и сопровождения программного обеспечения в 2011 году небольшой группой из нескольких человек. На данный момент наша команда насчитывает более 40 профессионалов, которые способны решить задачки любого уровня сложности.\xa0Мы специализируемся на программных продуктах в сфере B2B («business to business» - «бизнес для бизнеса») для любого сектора рынка. Более подробно на нашем сайте: http://finstc.ru/ .</p>',
+  'site_url': '',
+  'alternate_url': 'https://hh.ru/employer/3551849',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3551849',
+  'logo_urls': {
+    'original': 'https://hhcdn.ru/employer-logo-original/557119.png',
+    '240': 'https://hhcdn.ru/employer-logo/2669950.png',
+    '90': 'https://hhcdn.ru/employer-logo/2669949.png'
+  },
+  'relations': [],
+  'area': {
+    'id': '2',
+    'name': 'Санкт-Петербург',
+    'url': 'https://api.hh.ru/areas/2'
+  },
+  'industries': [],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 1
+}
+{
+  'id': '3428160',
+  'trusted': True,
+  'accredited_it_employer': True,
+  'name': 'HardQode',
+  'type': 'company',
+  'description': '<h3>Присоединяйся к команде HardQode и создавай востребованные IT-решения, которые развивают индустрию и мир в целом.\xa0</h3> <p><br />HardQode создает уникальные и актуальные IT решения и продукты для бизнеса: от собственных платформ до сервисов, связанных с ИИ.</p> <p>Став частью нашей команды, ты сможешь внести свой вклад в развитие индустрии.\xa0</p> <h3><br />Наша команда уже реализовала более 30 сложных решений.</h3> \xa0 <p>HardQode это:</p> <p><strong>1. Гибкий график.</strong><br />Нам неважно во сколько сотрудник начинает работу и где находится в этот момент. Мы не собираем ежедневные отчеты, а верим в самоорганизованность и личную ответственность.<br />Все созваны проходят онлайн и позволяют работать удаленно.</p> <p><strong>2. Команда сильных экспертов.</strong><br />В нашей команде собраны фанаты своего дела, которые любят развиваться и обучаться. Мы щедры на экспертную обратную связь, которая помогает решать возникающие задачи быстрее и эффективнее.</p> <p><strong>3. Забота и поддержка</strong><br />Мы поддерживаем неформальное общение, организовываем развлекательные программы. И всегда рады поддержать желание команды обучаться новому. В отличии от большинства компаний, мы считаем завершение очередного проекта - праздником, в котором каждый может с радостью пожинать плоды своего вклада.</p> <p><strong>4. Честность и открытость\xa0</strong><br />Мы всегда готовы выслушать как конструктивную обратную связь, так и предложение новых идей. Каждый член команды понимает куда, как и с каким вопросам он может обратиться. У нас есть своя культура взаимоуважения, которой мы придерживаемся.</p> <p><br /><strong>Являемся резидентом IT Park Kazan и аккредитованной IT-компанией.</strong></p> <p><br />HQ ищет экспертов из разных направлений:<br />\xa0</p> <p>1. Middle/Senior Python/Django/Fast Api\xa0Developer</p> <p>2. Middle/Senior Js/Vue Developer</p> <p>3. Data Analyst/DWH engineer</p> <p>4. CMO</p> \xa0 <p>Готовы предложить стажировку для следующих позиций:</p> <p>1. Junior Python/Django Developer</p> <p>2. Junior JS/Vue\xa0Developer</p>',
+  'site_url': 'http://hardqode.com',
+  'alternate_url': 'https://hh.ru/employer/3428160',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3428160',
+  'logo_urls': {
+    '90': 'https://hhcdn.ru/employer-logo/6242902.jpeg',
+    '240': 'https://hhcdn.ru/employer-logo/6242903.jpeg',
+    'original': 'https://hhcdn.ru/employer-logo-original/1155612.jpg'
+  },
+  'relations': [],
+  'area': {
+    'id': '88',
+    'name': 'Казань',
+    'url': 'https://api.hh.ru/areas/88'
+  },
+  'industries': [
+    {
+      'id': '7.540',
+      'name': 'Разработка программного обеспечения'
+    },
+    {
+      'id': '7.539',
+      'name': 'Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг'
+    }
+  ],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 5
+}
+{
+  'id': '784022',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'Монитор Софт',
+  'type': 'company',
+  'description': '<p>ООО «МОНИТОР СОФТ» является российской компанией с опытом работы в сфере информационных технологий, разработки, производства и обслуживания программного обеспечения и оборудования в авиационной отрасли с 1993 года.</p> <p>Начав свое развитие с разработки и производства связного оборудования для сети авиационной фиксированной электросвязи (АФТН/AFTN) для крупных и средних авиапредприятий (аэропорты, авиакомпании, диспетчерские службы и др.), ООО «МОНИТОР СОФТ» стала одной из наиболее профессиональных компаний на территории России в сфере разработки автоматизированных информационных систем (АИС) и другого оборудования и программного обеспечения для авиационной отрасли и автоматизации деятельности авиапредприятий, включая военную авиацию.</p> <p>На сегодняшний день компания выполняет комплексные территориально-распределенные проекты, включая разработку, внедрение и сопровождение информационных систем и программного обеспечения.</p> <p>ООО «МОНИТОР СОФТ» входит в число ключевых партнеров таких компаний-заказчиков как Росавиация, ФГУП «Госкорпорация по ОрВД», АО «Концерн ВКО «Алмаз-Антей», Минобороны РФ, авиация МВД РФ, авиация ФСБ РФ, ФГУАП МЧС РФ, аэропорты (включая «Международный аэропорт Домодедово», «Аэропорт Внуково», «Международный аэропорт Шереметьево», «Аэропорт Кольцово»), авиакомпании РФ (включая ПАО «Аэрофлот-Российские авиалинии», АО «Авиакомпания «Россия», «Сибирь»), аэропорты и авиационные органы стран СНГ (РГП «Казаэронавигация», РП «Белаэронавигация», ЗАО «Армаэронавигация», Центр «Узаэронавигация», ГУП «Таджикаэронавигация», ГП «Кыргызаэронавигация»). Развитию эффективных отношений с заказчиками способствует знание ООО «МОНИТОР СОФТ» отраслевых особенностей их деятельности и умение адаптировать современные технические решения в рамках поставленных задач.</p> <p>Основные виды деятельности предприятия:<br />- разработка и производство АИС для наземной сети авиационной электросвязи и передачи данных;<br />- разработка и производство АИС для автоматизации работы служб обработки плановой информации;<br />- разработка и производство АИС для автоматизации деятельности служб аэронавигационной информации государственной и гражданской авиации, с использованием геоинформационных систем;<br />- разработка и производство бортового оборудования;<br />- разработка программных комплексов различного назначения для авиационной отрасли;<br />- научно-исследовательские и опытно-конструкторские работы.<br />- гарантийное и послегарантийное обслуживание и ремонт.</p>',
+  'site_url': 'http://www.monitorsoft.ru',
+  'alternate_url': 'https://hh.ru/employer/784022',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=784022',
+  'logo_urls': {
+    '90': 'https://hhcdn.ru/employer-logo/2950672.png',
+    'original': 'https://hhcdn.ru/employer-logo-original/627380.png',
+    '240': 'https://hhcdn.ru/employer-logo/2950673.png'
+  },
+  'relations': [],
+  'area': {
+    'id': '2064',
+    'name': 'Жуковский',
+    'url': 'https://api.hh.ru/areas/2064'
+  },
+  'industries': [
+    {
+      'id': '7.539',
+      'name': 'Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг'
+    }
+  ],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 1
+}
+{
+  'id': '9417901',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'Олихвер В. В.',
+  'type': 'company',
+  'description': 'Розничная и оптовая торговля через интернет.\xa0',
+  'site_url': '',
+  'alternate_url': 'https://hh.ru/employer/9417901',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=9417901',
+  'logo_urls': None,
+  'relations': [],
+  'area': {
+    'id': '1002',
+    'name': 'Минск',
+    'url': 'https://api.hh.ru/areas/1002'
+  },
+  'industries': [
+    {
+      'id': '41.525',
+      'name': 'Интернет-магазин'
+    }
+  ],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 2
+}
+{
+  'id': '8649108',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'РЕГИОН',
+  'type': 'company',
+  'description': None,
+  'site_url': '',
+  'alternate_url': 'https://hh.ru/employer/8649108',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=8649108',
+  'logo_urls': None,
+  'relations': [],
+  'area': {
+    'id': '96',
+    'name': 'Ижевск',
+    'url': 'https://api.hh.ru/areas/96'
+  },
+  'industries': [],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 2
+}
+{
+  'id': '48167',
+  'trusted': True,
+  'accredited_it_employer': True,
+  'name': 'ИНСИС',
+  'type': 'company',
+  'description': '<p><strong>«Инсис» - </strong>это современная цифровая компания.</p> <p><strong>Наши клиенты:</strong> домашние пользователи и корпоративные клиенты.\xa0Являемся партнером в развитии всех важных жизненных отраслей.</p> <p><strong>Услуги:</strong> интернет, цифровое телевидение, системная интеграция,\xa0виртуальная АТС и телефония, Wi-Fi хот-спот, облачный хостинг.</p> <p>У нас <strong>нет бюрократии</strong>, <strong>скорость</strong> взаимодействия между сотрудниками <strong>наша\xa0ценность</strong>. <strong>Воплощение</strong> масштабных и креативных <strong>проектов за короткие срок</strong>\xa0наша <strong>реальность</strong>. Мы все фанаты своего дела, дружная команда, которая эффективно трудится и весело отдыхает.</p> <p>Мы ищем неравнодушных и целеустремленных людей, которые будут вместе с нами развивать и продвигать цифровые сервисы.</p>',
+  'site_url': 'http://www.profintel.ru',
+  'alternate_url': 'https://hh.ru/employer/48167',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=48167',
+  'logo_urls': {
+    'original': 'https://hhcdn.ru/employer-logo-original/221799.gif',
+    '90': 'https://hhcdn.ru/employer-logo/589349.png',
+    '240': 'https://hhcdn.ru/employer-logo/589350.png'
+  },
+  'relations': [],
+  'area': {
+    'id': '3',
+    'name': 'Екатеринбург',
+    'url': 'https://api.hh.ru/areas/3'
+  },
+  'industries': [
+    {
+      'id': '7.538',
+      'name': 'Интернет-провайдер'
+    },
+    {
+      'id': '7.539',
+      'name': 'Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг'
+    },
+    {
+      'id': '9.401',
+      'name': 'Оптоволоконная связь'
+    }
+  ],
+  'branded_description': '<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 1250px;\n    position: relative;\n    word-break: normal;\n    font-family: \'Arial\';\n    font-size: 20px;\n    line-height: 160%;\n    letter-spacing: -0.02em;\n    color: #000000;\n    z-index: 1;\n    box-sizing: border-box;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    user-select: none;\n}\n\n.tmpl_hh_vacancy_block {\n    display: none;\n}\n\n.UNSAFE-employer-branded-is-desktop .tmpl_hh_vacancy_block {\n    display: block;\n}\n\n.tmpl_hh_header {\n    background: #0057D7 url(https://hhcdn.ru/ichameleon/255632.jpg) no-repeat;\n    background-size: auto 100%;\n    background-position: right;\n    border-radius: 80px;\n    color: #fff;\n    padding: 123px 34% 118px 66px;\n}\n\np.tmpl_hh_header__text {\n    font-size: 32px;\n    line-height: 42px;\n    letter-spacing: 0.02em;\n    margin-bottom: 81px;\n}\n\np.tmpl_hh_header__text b {\n    font-size: 58px;\n    line-height: 0;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_header__items {\n    width: 88.2%;\n}\n\n.tmpl_hh_header__item {\n    font-size: 20px;\n    line-height: 160%;\n    letter-spacing: -0.02em;\n}\n\n.tmpl_hh_header__item b {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    display: block;\n}\n\n.tmpl_hh_header__item span {\n    margin: 0 -4px;\n}\n\n.tmpl_hh_work {\n    margin: 101px 65px 68px;\n}\n\np.tmpl_hh_work__title {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    margin-bottom: 24px;\n}\n\np.tmpl_hh_work__text {\n    font-size: 20px;\n    line-height: 160%;\n    letter-spacing: -0.02em;\n    width: 280px;\n}\n\n.tmpl_hh_work__items {\n    align-items: flex-end;\n    margin: -190px 0 0;\n}\n\n.tmpl_hh_work__column {\n    width: 31.4%;\n}\n\n.tmpl_hh_work__photo {\n    border-radius: 40px;\n    overflow: hidden;\n    margin-bottom: 32px;\n}\n\n.tmpl_hh_employees {\n    margin: 0 65px;\n}\n\np.tmpl_hh_employees__title {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    margin-bottom: 61px;\n}\n\n.tmpl_hh_employees__item {\n    background: #F7F8FB;\n    border-radius: 40px;\n    margin-bottom: 60px;\n    box-sizing: border-box;\n    position: relative;\n    height: 420px;\n    padding: 60px 12.2% 0px 34.3%;\n}\n\n.tmpl_hh_employees__icon {\n    position: absolute;\n    left: 63px;\n    width: 240px;\n    height: 240px;\n    top: 90px;\n}\n\n.tmpl_hh_employees__icon img {\n    height: 100%;\n    width: auto;\n}\n\np.tmpl_hh_employees__head {\n    font-size: 32px;\n    line-height: 130%;\n    letter-spacing: 0.02em;\n    margin-bottom: 35px;\n}\n\n.tmpl_hh_employees__item ul {\n    list-style: none;\n}\n\n.tmpl_hh_employees__item li {\n    position: relative;\n    padding-left: 36px;\n    margin-bottom: 16px;\n}\n\n.tmpl_hh_employees__item li:before {\n    content: "";\n    width: 20px;\n    height: 2px;\n    background: #0057D7;\n    position: absolute;\n    left: 0;\n    top: 17px;\n}\n\n.tmpl_hh_employees__item:last-child {\n    padding: 108px 7.2% 0px 34.3%;\n}\n\n.tmpl_hh_waiting {\n    margin: 101px 65px 100px;\n}\n\np.tmpl_hh_waiting__title {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    color: #000000;\n    margin-bottom: 65px;\n}\n\n.tmpl_hh_waiting__column {\n    width: 31.4%;\n    box-sizing: border-box;\n    padding: 0 16px;\n}\n\n.tmpl_hh_waiting__photo {\n    border-radius: 40px;\n    overflow: hidden;\n    margin: 0 -16px 50px;\n}\n\np.tmpl_hh_waiting__head {\n    font-size: 32px;\n    line-height: 130%;\n    letter-spacing: 0.02em;\n}\n\n.tmpl_hh_waiting__arrow {\n    width: 200px;\n    margin: 19px 0 20px;\n}\n\np.tmpl_hh_waiting__text span {\n    font-size: 16px;\n    line-height: 160%;\n    letter-spacing: -0.02em;\n    display: block;\n}\n\n.tmpl_hh_terms {\n    margin: 0 65px 0;\n}\n\np.tmpl_hh_terms__title {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    letter-spacing: 0.02em;\n    margin-bottom: 50px;\n}\n\n.tmpl_hh_terms__item {\n    width: 31.4%;\n    box-sizing: border-box;\n    padding: 0 0 0 0;\n}\n\n.tmpl_hh_terms__icon {\n    height: 181px;\n    margin-bottom: 49px;\n}\n\np.tmpl_hh_terms__head {\n    font-size: 32px;\n    line-height: 130%;\n    letter-spacing: 0.02em;\n    margin-bottom: 20px;\n}\n\n.tmpl_hh_terms__icon {\n    height: 181px;\n    margin-bottom: 49px;\n}\n\n.tmpl_hh_terms__item:nth-child(3) .tmpl_hh_terms__icon {\n    position: relative;\n    left: -12px;\n    box-sizing: border-box;\n    padding: 2px 0px 0 0px;\n}\n\n.tmpl_hh_terms__icon img {\n    width: auto;\n    height: 100%;\n}\n\n.tmpl_hh_specialists {\n    background: #0057D7;\n    border-radius: 40px;\n    margin: 99px 65px 0;\n    padding: 81px 80px 114px;\n}\n\np.tmpl_hh_specialists__title {\n    font-weight: 700;\n    font-size: 58px;\n    line-height: 120%;\n    text-align: center;\n    letter-spacing: 0.02em;\n    color: #FFFFFF;\n    margin-bottom: 35px;\n}\n\n.tmpl_hh_specialists__item {\n    position: relative;\n    width: 272px;\n    font-size: 20px;\n    line-height: 160%;\n    text-align: center;\n    letter-spacing: -0.02em;\n    color: #FFFFFF;\n    margin: 0 0 -7%;\n    align-self: flex-end;\n}\n\n.tmpl_hh_specialists__item p {\n    position: absolute;\n    left: 0;\n    right: 0;\n    bottom: 46px;\n    text-align: center;\n    padding: 0 25px;\n}\n\n.tmpl_hh_specialists__item span {\n    font-size: 16px;\n    line-height: 160%;\n    text-align: center;\n    letter-spacing: -0.02em;\n    display: block;\n}\n\n.tmpl_hh_specialists__item:nth-child(5) {\n    margin-right: 17.7%;\n}\n    \n.tmpl_hh_specialists__item:nth-child(4) {\n    margin-left: 18.3%;\n}\n\n.tmpl_hh_footer {\n    margin: 101px 65px 3px;\n}\n\np.tmpl_hh_footer__title {\n    font-size: 32px;\n    line-height: 130%;\n    letter-spacing: 0.02em;\n    margin-bottom: 48px;\n}\n\n.tmpl_hh_footer__arrow {\n    width: 200px;\n}\n\n@media screen and (max-width: 1339px) {\n    .tmpl_hh_wrapper {\n        font-size: 18px;\n        line-height: 27px;\n    }\n\n    p.tmpl_hh_header__text {\n        font-size: 24px;\n        line-height: 31px;\n    }\n\n    p.tmpl_hh_header__text b {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_header__item {\n        font-size: 18px;\n    }\n\n    .tmpl_hh_header__item b {\n        font-size: 28px;\n    }\n\n    p.tmpl_hh_work__title {\n        font-size: 28px;\n    }\n\n    p.tmpl_hh_work__text {\n        font-size: 18px;\n    }\n\n    .tmpl_hh_work__items {\n        margin: -150px 0 0;\n    }\n\n    p.tmpl_hh_employees__title {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_employees__item {\n        height: 400px;\n        padding: 60px 50px 0px 43%;\n    }\n\n    .tmpl_hh_employees__item:last-child {\n        padding: 60px 50px 0px 43%;\n    }\n\n    p.tmpl_hh_employees__head {\n        font-size: 24px;\n        margin-bottom: 14px;\n    }\n\n    p.tmpl_hh_waiting__title {\n        font-size: 28px;\n    }\n\n    p.tmpl_hh_waiting__head {\n        font-size: 24px;\n    }\n\n    .tmpl_hh_waiting__arrow {\n        width: 130px;\n        margin: 19px 0 20px;\n    }\n\n    p.tmpl_hh_waiting__text span {\n        font-size: 14px;\n    }\n\n    p.tmpl_hh_terms__title {\n        font-size: 28px;\n    }\n\n    p.tmpl_hh_terms__head {\n        font-size: 24px;\n    }\n\n    p.tmpl_hh_specialists__title {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_specialists__item {\n        width: 272px;\n        font-size: 18px;\n        margin: 0 0 -4%;\n    }\n\n    .tmpl_hh_specialists__item span {\n        font-size: 14px;\n    }\n\n    .tmpl_hh_specialists__item:nth-child(5) {\n        margin: 0 auto -4%;\n    }\n    \n    .tmpl_hh_specialists__item:nth-child(4) {\n        margin-left: 0%;\n    }\n\n    p.tmpl_hh_footer__title {\n        font-size: 24px;\n    }\n\n    .tmpl_hh_footer__arrow {\n        width: 126px;\n    }\n}\n\n@media screen and (max-width: 1019px) {\n\n    .tmpl_hh_header {\n        background: #0057D7 url(https://hhcdn.ru/ichameleon/255633.jpg) no-repeat;\n        background-size: auto 100%;\n        background-position: right;\n        border-radius: 30px;\n        padding: 45px 15px 24px 15px;\n    }\n\n    p.tmpl_hh_header__text {\n        font-size: 24px;\n        line-height: 31px;\n        margin-bottom: 24px;\n    }\n\n    p.tmpl_hh_header__text b {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_header__items {\n        width: auto;\n    }\n\n    .tmpl_hh_header__item {\n        font-size: 18px;\n        line-height: 27px;\n        width: 46%;\n        margin-bottom: 25px;\n    }\n    \n    .tmpl_hh_header__item:nth-child(1) {\n        order: 1;\n    }\n\n    .tmpl_hh_header__item:nth-child(3) {\n        order: 2;\n    }\n\n    .tmpl_hh_header__item:nth-child(2) {\n        order: 3;\n    }\n\n    .tmpl_hh_header__item b {\n        font-size: 28px;\n    }\n\n    .tmpl_hh_work {\n        margin: 43px 15px 33px;\n    }\n\n    p.tmpl_hh_work__title {\n        font-size: 28px;\n        max-width: 80%;\n        margin-bottom: 16px;\n    }\n\n    p.tmpl_hh_work__text {\n        font-size: 18px;\n        line-height: 27px;\n    }\n\n    .tmpl_hh_work__items {\n        margin: 2px 0 0;\n    }\n\n    .tmpl_hh_work__column {\n        width: 48%;\n    }\n\n    .tmpl_hh_work__photo {\n        border-radius: 16px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_work__column.tmpl_hh_work__column--3.tmpl_hh_flex {\n        width: 100%;\n    }\n\n    .tmpl_hh_work__column.tmpl_hh_work__column--3 .tmpl_hh_work__photo {\n        width: 48%;\n    }\n\n    .tmpl_hh_employees {\n        margin: 0 15px;\n    }\n\n    p.tmpl_hh_employees__title {\n        font-size: 28px;\n        max-width: 80%;\n        margin-bottom: 33px;\n    }\n\n    .tmpl_hh_employees__item {\n        height: auto;\n        padding: 14px 15px 28px;\n        border-radius: 16px;\n        margin-bottom: 10px;\n    }\n\n    .tmpl_hh_employees__icon {\n        position: relative;\n        left: 0;\n        width: 220px;\n        height: 220px;\n        top: 0;\n        margin: 0 auto 32px;\n    }\n\n    .tmpl_hh_employees__item:nth-child(2) .tmpl_hh_employees__icon {\n        margin: 28px auto 33px;\n        left: -0;\n    }\n\n    .tmpl_hh_employees__item:nth-child(3) .tmpl_hh_employees__icon {\n        margin: 29px auto 31px;\n        left: -5px;\n    }\n\n    .tmpl_hh_employees__item:nth-child(4) .tmpl_hh_employees__icon {\n        left: -6px;\n    }\n\n    p.tmpl_hh_employees__head {\n        font-size: 24px;\n        margin-bottom: 14px;\n    }\n\n    .tmpl_hh_employees__item li {\n        padding-left: 26px;\n        margin-bottom: 12px;\n    }\n\n    .tmpl_hh_employees__item li:before {\n        width: 14px;\n        top: 12px;\n    }\n\n    .tmpl_hh_employees__item:last-child {\n        padding: 44px 15px 40px;\n    }\n\n    .tmpl_hh_waiting {\n        margin: 45px 15px 13px;\n    }\n\n    p.tmpl_hh_waiting__title {\n        font-size: 28px;\n        margin-bottom: 31px;\n    }\n\n    .tmpl_hh_waiting__column {\n        width: 100%;\n        box-sizing: border-box;\n        padding: 0 0 30px;\n    }\n\n    .tmpl_hh_waiting__photo {\n        margin: 0 0 24px;\n    }\n\n    p.tmpl_hh_waiting__head {\n        font-size: 24px;\n    }\n\n    .tmpl_hh_waiting__arrow {\n        width: 57px;\n        margin: 14px 0 15px;\n        height: 24px;\n        background: url(https://hhcdn.ru/ichameleon/255829.svg) no-repeat;\n        background-size: auto 100%;\n    }\n\n    .tmpl_hh_waiting__arrow img {\n        display: none;\n    }\n\n    p.tmpl_hh_waiting__text span {\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_terms {\n        margin: 0 15px 0;\n    }\n\n    p.tmpl_hh_terms__title {\n        font-size: 28px;\n        margin-bottom: 21px;\n    }\n\n    .tmpl_hh_terms__item {\n        width: 48%;\n        box-sizing: border-box;\n        padding: 0 0 0 0;\n        margin-bottom: 20px;\n    }\n\n    .tmpl_hh_terms__icon {\n        margin-bottom: 24px;\n    }\n\n    p.tmpl_hh_terms__head {\n        font-size: 24px;\n        margin-bottom: 15px;\n    }\n\n    .tmpl_hh_specialists {\n        border-radius: 40px;\n        margin: 20px 15px 0;\n        padding: 81px 0px 98px;\n    }\n\n    p.tmpl_hh_specialists__title {\n        font-size: 28px;\n        margin-bottom: 90px;\n    }\n\n    .tmpl_hh_specialists__item {\n        width: 35%;\n        font-size: 18px;\n        margin: 0 7.2% -6%;\n    }\n\n    .tmpl_hh_specialists__item p {\n        position: absolute;\n        left: 0;\n        right: 0;\n        bottom: 19.5%;\n        text-align: center;\n        padding: 0 25px;\n    }\n\n    .tmpl_hh_specialists__item span {\n        font-size: 14px;\n        line-height: 21px;\n    }\n\n    .tmpl_hh_specialists__item:nth-child(5) {\n        margin: 0 auto -6%;\n    }    \n    \n    .tmpl_hh_specialists__item:nth-child(4) {\n        margin: 0 auto -6%;\n    }\n\n    .tmpl_hh_specialists__item:nth-child(5) p {\n        bottom: 6.5%;\n    }\n\n    .tmpl_hh_footer {\n        margin: 42px 15px 3px;\n    }\n\n    p.tmpl_hh_footer__title {\n        font-size: 24px;\n        margin-bottom: 24px;\n    }\n\n    .tmpl_hh_footer__arrow {\n        width: 126px;\n        height: 24px;\n        background: url(https://hhcdn.ru/ichameleon/255829.svg) no-repeat;\n        background-size: auto 100%;\n        background-position: center;\n    }\n\n    .tmpl_hh_footer__arrow img {\n        display: none;\n    }\n\n    .tmpl_hh_waiting__arrow img {\n        display: none;\n    }\n\n    .tmpl_hh_terms__item br {\n        display: none;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_terms__item {\n        width: 100%;\n    }\n\n        .tmpl_hh_specialists__item {\n        width: 100%;\n        font-size: 18px;\n        margin: 0 7.2% -13%;\n    }\n\n    .tmpl_hh_specialists__item:nth-child(5) {\n        margin: 0 7.2% -13%;\n    }    \n    \n    .tmpl_hh_specialists__item:nth-child(4) {\n        margin: 0 7.2% -13%;\n    }\n}\n\n</style>\n\n<div style="width:100%;max-width:1250px;margin:0 auto 15px auto;"><employer-wantworkhere></employer-wantworkhere><div style="margin: 15px 0 0;"><employer-hrbrand></employer-hrbrand><employer-hhrating></employer-hhrating></div></div>\n\n<div class="tmpl_hh_wrapper">\n    <div class="tmpl_hh_header">\n        <p class="tmpl_hh_header__text"><b>«ИНСИС»</b> —\xa0независимая it- и\xa0телеком-компания, в\xa0которой главное\xa0— это люди</p>\n        <div class="tmpl_hh_header__items tmpl_hh_flex">\n        </div>\n    </div>\n    <div class="tmpl_hh_work">\n        <p class="tmpl_hh_work__title">Работаем с\xa01999 года</p>\n        <p class="tmpl_hh_work__text">«ИНСИС»\xa0— это <b>независимый</b> оператор связи Екатеринбурга</p>\n        <div class="tmpl_hh_work__items tmpl_hh_flex">\n            <div class="tmpl_hh_work__column tmpl_hh_work__column--1 tmpl_hh_flex">\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255626.jpg" alt=""></div>\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255627.jpg" alt=""></div>\n            </div>\n            <div class="tmpl_hh_work__column tmpl_hh_work__column--2 tmpl_hh_flex">\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255629.jpg" alt=""></div>\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255628.jpg" alt=""></div>\n            </div>\n            <div class="tmpl_hh_work__column tmpl_hh_work__column--3 tmpl_hh_flex">\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255630.jpg" alt=""></div>\n                <div class="tmpl_hh_work__photo"><img src="https://hhcdn.ru/ichameleon/255631.jpg" alt=""></div>\n            </div>\n        </div>\n    </div>\n    <div class="tmpl_hh_employees">\n        <p class="tmpl_hh_employees__title">Что это значит для сотрудников?</p>\n        <div class="tmpl_hh_employees__item">\n            <div class="tmpl_hh_employees__icon"><img src="https://hhcdn.ru/ichameleon/255623.png" alt=""></div>\n            <p class="tmpl_hh_employees__head">Минимум бюрократии:</p>\n            <ul>\n                <li>Ведь самое главное <b>люди и\xa0решение задач</b>, а\xa0не\xa0заполнение формуляров!</li>\n                <li>Так что мы\xa0всегда <b>приветствуем</b> инициативу и\xa0<b>поощряем</b> её\xa0адекватно</li>\n                <li><b>Человеческое</b> отношение и\xa0общение внутри коллектива, ведь все мы\xa0люди, а\xa0не\xa0роботы</li>\n            </ul>\n        </div>\n        <div class="tmpl_hh_employees__item">\n            <div class="tmpl_hh_employees__icon"><img src="https://hhcdn.ru/ichameleon/255624.png" alt=""></div>\n            <p class="tmpl_hh_employees__head">Фанаты своих продуктов:</p>\n            <ul>\n                <li>Широкополосный интернет</li>\n                <li>Интерактивное телевидение</li>\n                <li>Облачное видеонаблюдение</li>\n                <li>Виртуальная АТС</li>\n                <li>Цифровая домофония</li>\n            </ul>\n        </div>\n        <div class="tmpl_hh_employees__item">\n            <div class="tmpl_hh_employees__icon"><img src="https://hhcdn.ru/ichameleon/255625.png" alt=""></div>\n            <p class="tmpl_hh_employees__head">И\xa0с\xa0чувством юмора:</p>\n            <p>Комон! <b>Ну\xa0какая работа без юмора?</b> Ни\xa0одна самая даже великая задача не\xa0обходится без шуток в\xa0процессе. И\xa0это позитивно сказывается на\xa0результате. Просто посмотрите любую нашу рекламу и\xa0рост абонентской базы до\xa0100\xa0000 клиентов за\xa0последние годы.</p>\n        </div>\n    </div>\n    <div class="tmpl_hh_waiting">\n        <p class="tmpl_hh_waiting__title">Что еще тебя ждет?</p>\n        <div class="tmpl_hh_waiting__columns tmpl_hh_flex">\n            <div class="tmpl_hh_waiting__column">\n                <div class="tmpl_hh_waiting__photo"><img src="https://hhcdn.ru/ichameleon/255621.jpg" alt=""></div>\n                <p class="tmpl_hh_waiting__head">Вкладываемся в\xa0людей</p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255802.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text">Профильные обучающие мероприятия\xa0— это не\xa0привилегия, а\xa0<b>наш квартальный план</b></p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255802.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text"><span>Честно, это не\xa0слепая вера в\xa0людей или благотворительность, а\xa0четкое понимание, что <b>повышение твоей квалификации\xa0— это, как говорится, win\xa0— win</b></span></p>\n            </div>\n            <div class="tmpl_hh_waiting__column">\n                <div class="tmpl_hh_waiting__photo"><img src="https://hhcdn.ru/ichameleon/255622.jpg" alt=""></div>\n                <p class="tmpl_hh_waiting__head">Корпоративная культура без\xa0формальностей</p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255803.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text">День связи будет <b>ярче\xa0Нового\xa0года</b></p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255803.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text">А\xa0день рождения «Инсис»  <br><b>станет ожидаемей, чем свой\xa0ДР</b></p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255803.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text"><span>Потому что мы\xa0празднуем\xa0— так празднуем! <b>Резиденты Comedy Club, «Уральские пельмени»</b> и\xa0другие звезды уже побывали у\xa0нас на\xa0корпоративах</span></p>\n            </div>\n            <div class="tmpl_hh_waiting__column">\n                <div class="tmpl_hh_waiting__photo"><img src="https://hhcdn.ru/ichameleon/255620.jpg" alt=""></div>\n                <p class="tmpl_hh_waiting__head">Своих не\xa0бросаем</p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255804.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text">Новый сотрудник\xa0— <br><b>новый член семьи «Инсис»,</b> и\xa0как\xa0бы банально это не\xa0звучало, но\xa0это факт</p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255805.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text">Поэтому <b>каждого новичка поддерживаем,</b> обучаем и\xa0помогаем адаптироваться</p>\n                <div class="tmpl_hh_waiting__arrow"><img src="https://hhcdn.ru/ichameleon/255805.svg" alt=""></div>\n                <p class="tmpl_hh_waiting__text"><span>А\xa0если, не\xa0дай Бог, сложная жизненная ситуация, то\xa0<b>все за\xa0одного!</b></span></p>\n            </div>\n        </div>\n    </div>\n    <div class="tmpl_hh_terms">\n        <p class="tmpl_hh_terms__title">Отношение\xa0— человеческое.<br> А\xa0условия\xa0— как у\xa0федералов.</p>\n        <div class="tmpl_hh_terms__itema tmpl_hh_flex">\n            <div class="tmpl_hh_terms__item">\n                <div class="tmpl_hh_terms__icon"><img src="https://hhcdn.ru/ichameleon/255617.png" alt=""></div>\n                <p class="tmpl_hh_terms__head">Официальная ЗП</p>\n                <p>Так что и\xa0<b>больничные<br> с\xa0отпусками будут,</b><br> и\xa0пенсия потом</p>\n            </div>\n            <div class="tmpl_hh_terms__item">\n                <div class="tmpl_hh_terms__icon"><img src="https://hhcdn.ru/ichameleon/255615.png" alt=""></div>\n                <p class="tmpl_hh_terms__head">Гибкий график</p>\n                <p>Да, можно начинать<br> работать с\xa09, а\xa0можно с\xa011,<br> <b>если это всем удобно</b></p>\n            </div>\n            <div class="tmpl_hh_terms__item">\n                <div class="tmpl_hh_terms__icon"><img src="https://hhcdn.ru/ichameleon/255616.png" alt=""></div>\n                <p class="tmpl_hh_terms__head">Удаленка </p>\n                <p>И\xa0такой формат <b>возможен</b></p>\n            </div>\n        </div>\n    </div>\n    <div class="tmpl_hh_specialists">\n        <p class="tmpl_hh_specialists__title">Каких специалистов мы\xa0ждем всегда?</p>\n        <div class="tmpl_hh_specialists__items tmpl_hh_flex">\n            <div class="tmpl_hh_specialists__item">\n                <div class="tmpl_hh_specialists__man"><img src="https://hhcdn.ru/ichameleon/255610.svg" alt=""></div>\n                <p>Разработчики, <br>программисты</p>\n            </div>\n            <div class="tmpl_hh_specialists__item">\n                <div class="tmpl_hh_specialists__man"><img src="https://hhcdn.ru/ichameleon/255611.svg" alt=""></div>\n                <p>Монтажники, <br>инженеры</p>\n            </div>\n            <div class="tmpl_hh_specialists__item">\n                <div class="tmpl_hh_specialists__man"><img src="https://hhcdn.ru/ichameleon/255613.svg" alt=""></div>\n                <p>Операторы <br>call-центра</p>\n            </div>\n            <div class="tmpl_hh_specialists__item">\n                <div class="tmpl_hh_specialists__man"><img src="https://hhcdn.ru/ichameleon/255612.svg" alt=""></div>\n                <p>Менеджеры <span>по работе с\xa0физическими лицами</span></p>\n            </div>\n            <div class="tmpl_hh_specialists__item">\n                <div class="tmpl_hh_specialists__man"><img src="https://hhcdn.ru/ichameleon/255614.svg" alt=""></div>\n                <p>Менеджеры <span>по\xa0работе с\xa0корпоративными клиентами</span></p>\n            </div>\n        </div>\n    </div>\n    <div class="tmpl_hh_footer">\n        <p class="tmpl_hh_footer__title">Посмотри актуальные вакансии сейчас</p>\n        <div class="tmpl_hh_footer__arrow"><img src="https://hhcdn.ru/ichameleon/255801.svg" alt=""></div>\n    </div>\n</div>\n\n<div class="tmpl_hh_vacancy_block" style="width:100%;max-width:1250px;margin:0 auto 25px auto;position: relative; padding: 30px 0 0;">\n    <div style="position: absolute; right: 0; top: 15px; z-index: 10;">\n        <employer-insider></employer-insider>\n    </div>\n    <h3 style="font-weight: normal; font-size: 18px; margin: 20px 0;">\n        Вакансии компании «<employer-title></employer-title>»<employer-confirmed></employer-confirmed>\n    </h3>\n    <vacancies filtered="true"></vacancies>\n</div>',
+  'branding': {
+    'type': 'makeup',
+    'template_code': 'makeup:6367',
+    'template_version_id': '335287',
+    'makeup': {
+      'url': '/employer/makeup/webview/48167'
+    }
+  },
+  'insider_interviews': [],
+  'open_vacancies': 19
+}
+{
+  'id': '6075242',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'IT HUB',
+  'type': 'company',
+  'description': '<br />\r\nРазработка программного обеспечения',
+  'site_url': '',
+  'alternate_url': 'https://hh.ru/employer/6075242',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=6075242',
+  'logo_urls': None,
+  'relations': [],
+  'area': {
+    'id': '2778',
+    'name': 'Самарканд',
+    'url': 'https://api.hh.ru/areas/2778'
+  },
+  'industries': [
+    {
+      'id': '7.540',
+      'name': 'Разработка программного обеспечения'
+    }
+  ],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 1
+}
+{
+  'id': '1176181',
+  'trusted': True,
+  'accredited_it_employer': False,
+  'name': 'Крауд',
+  'type': 'company',
+  'description': '<p><strong>Крауд </strong>– это российская ИТ- аутсорсинговая компания.\xa0</p> <p>Компания основана в 2011 году и изначально специализировалась на ИТ-инфраструктуре.\xa0<br />Сегодня мы являемся для наших клиентов ИТ-службой одного окна полноценной, оказывая многопрофильный ИТ-сервис. Мы имеем глубокую экспертизу в сфере информационной безопасности, заказной разработки ПО, технической поддержке, системном администрировании, построении ИТ- инфраструктур любого масштаба, а также предоставляем облачные услуги.</p> <p><strong>Кто мы?\xa0</strong><br />Мы команда единомышленников, которая состоит из квалифицированных и сертифицированных инженеров, аналитиков, тестировщиков, разработчиков и менеджеров. Всего в штате порядка 100+ человек, а средний возраст команды около 33 лет.\xa0</p> <p><strong>Кто наши клиенты?</strong><br />С момента основания мы выполнили более 5 000 проектов у 800+ клиентов.\xa0<br />Наши клиенты - как российские, так и международные компании среднего и крупного размера, а также, государственные организации. Деятельность наших клиентов ведется более чем в 30 странах мира.\xa0</p> <p><strong>Наши ценности:\xa0</strong></p> <p>- Мы очень щепитильно относимся к сотрудникам, верим, что человеческие качества часто важнее профессиональных компетенций. Мы живем и взаимодействуем друг с другом через призму уважения, и доверия;</p> <p>- Для нас важно выстраивать взаимоотношения как с клиентами, так и с сотрудниками на принципах открытости, честности;\xa0</p> <p>- Мы верим в необходимость рабочей дисциплины и прозрачности, при этом стараемся использовать минимум бюрократии и формализма в рабочих процессах. Это позволяет нам продуктивно решать вопросы и сохранять &quot;уютную&quot; рабочую атмосферу.</p> <p>- Важный показатель для нас – качество предоставляемых услуг. Мы с уверенностью можем нести ответственность за свою работу;\xa0</p> <p>А еще мы любим кофе, настольные игры и нашу террасу на крыше :)</p> <p>Будем рады видеть тебя в нашей дружной команде!</p>',
+  'site_url': 'http://www.kraud.ru',
+  'alternate_url': 'https://hh.ru/employer/1176181',
+  'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1176181',
+  'logo_urls': {
+    '240': 'https://hhcdn.ru/employer-logo/1998403.jpeg',
+    '90': 'https://hhcdn.ru/employer-logo/1998402.jpeg',
+    'original': 'https://hhcdn.ru/employer-logo-original/389037.jpg'
+  },
+  'relations': [],
+  'area': {
+    'id': '2',
+    'name': 'Санкт-Петербург',
+    'url': 'https://api.hh.ru/areas/2'
+  },
+  'industries': [
+    {
+      'id': '7.539',
+      'name': 'Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг'
+    }
+  ],
+  'branded_description': None,
+  'branding': None,
+  'insider_interviews': [],
+  'open_vacancies': 9
+}
