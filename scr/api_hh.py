@@ -1,7 +1,7 @@
 import requests
 
 
-class HH:
+class HH_VAC:
     def __init__(self, keyword, url):
         self.url = url
         self.params = {
