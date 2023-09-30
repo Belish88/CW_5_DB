@@ -74,7 +74,8 @@ def save_data_to_database(data, database_name, params):
                     salary = vac['salary']['from']
                 cur.execute(
                     """
-                    insert into vacancies (vacancy_id, employer_id, vacancy_name, salary, city, vacancy_type, vacancy_url)
+                    insert into vacancies 
+                    (vacancy_id, employer_id, vacancy_name, salary, city, vacancy_type, vacancy_url)
                     values (%s, %s, %s, %s, %s, %s, %s)
                     """,
                     (vac['id'],
@@ -85,5 +86,14 @@ def save_data_to_database(data, database_name, params):
                      vac['type']['name'],
                      vac['alternate_url'])
                 )
+    conn.commit()
+    conn.close()
+
+
+def clean_tables(database_name, params):
+    conn = psycopg2.connect(dbname=database_name, **params)
+    with conn.cursor() as cur:
+        cur.execute("truncate table vacancies, employers")
+
     conn.commit()
     conn.close()
