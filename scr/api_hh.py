@@ -2,12 +2,12 @@ import requests
 
 
 class HH_VAC:
-    def __init__(self, keyword, url):
+    def __init__(self, keyword, url, pages):
         self.url = url
         self.params = {
             'text': keyword,
             'page': 0,
-            'per_page': 100,
+            'per_page': pages,
             'search_field': 'name'
         }
 
