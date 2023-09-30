@@ -15,8 +15,9 @@ create table vacancies
 	employer_id int,
 	vacancy_name varchar,
 	salary int,
+	city varchar,
 	vacancy_type varchar,
-	vacancy_url,
+	vacancy_url varchar,
 
 	constraint pk_vacancies_vacancy_id primary key(vacancy_id),
 	constraint fk_vacancies_employers foreign key(employer_id) references employers(employer_id)
